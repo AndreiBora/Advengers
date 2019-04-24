@@ -1,5 +1,5 @@
 # Advengers
 
-Markup :  #### Steps ####
-Markup : 1. cd Advengers
-         2. python3 main.py
+#### Steps ####
+1. cd Advengers
+2. python3 main.py (for linux)
